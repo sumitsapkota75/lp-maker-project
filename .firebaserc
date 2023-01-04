@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "readytoworkjapan",
+    "dev": "readytoworkjapan"
+  },
+  "targets": {
+    "readytoworkjapan": {
+      "hosting": {
+        "ssr-next-client": [
+          "ssr-next-dev-site"
+        ]
+      }
+    }
+  }
+}
